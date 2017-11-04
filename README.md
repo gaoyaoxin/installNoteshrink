@@ -1,4 +1,4 @@
-# installNoteshrink
+# install noteshrinker-django
 
 ```
 sudo apt-get install python
